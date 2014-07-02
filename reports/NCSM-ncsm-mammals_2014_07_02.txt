@@ -1,0 +1,154 @@
+Report for Institution Code NCSM, Resource ncsm-mammals
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 859
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 97
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 5
+	Date: 2014-06-03 ; Times: 6
+	Date: 2014-06-04 ; Times: 2
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-09 ; Times: 4
+	Date: 2014-06-10 ; Times: 1
+	Date: 2014-06-11 ; Times: 1
+	Date: 2014-06-12 ; Times: 12
+	Date: 2014-06-13 ; Times: 2
+	Date: 2014-06-14 ; Times: 17
+	Date: 2014-06-18 ; Times: 11
+	Date: 2014-06-20 ; Times: 18
+	Date: 2014-06-21 ; Times: 2
+	Date: 2014-06-22 ; Times: 2
+	Date: 2014-06-23 ; Times: 11
+	Date: 2014-06-26 ; Times: 8
+	Date: 2014-06-27 ; Times: 3
+	Date: 2014-06-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "tadarida brasiliensis year >= 1990 year <= 2014" ; Times: 1
+	Query: "tadarida distance(location,geopoint(25.83944940206321,-78.662109375))<524500" ; Times: 1
+	Query: "country:"Panama" specificepithet:commissarisi genus:Glossophaga" ; Times: 1
+	Query: "southeastern pocket gopher type:specimen (southeastern pocket gopher geomys pinetis ) year <= 2014" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 5
+	Query: "genus:Ornithorhynchus" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.014645445341404,-63.6328125))<777130" ; Times: 1
+	Query: "wollebaeki type:specimen" ; Times: 1
+	Query: "1874" ; Times: 1
+	Query: "country:"Panama" specificepithet:phaeotis genus:Artibeus" ; Times: 1
+	Query: "country:"Panama" specificepithet:castanea genus:Carollia" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "country:"Panama" specificepithet:hastatus genus:Phyllostomus" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "mole" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.014645445341404,-63.6328125))<524499.5960259167" ; Times: 1
+	Query: "country:"Panama" specificepithet:caraccioli genus:Vampyrodes" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "canis rufus" ; Times: 1
+	Query: "distance(location,geopoint(44.59046718130883,-78.0908203125))<100000" ; Times: 1
+	Query: "genus:Ornithorhynchus (Victoria)" ; Times: 10
+	Query: "sylvilagus transitionalis" ; Times: 16
+	Query: ""Erethizon dorsatum" mappable:1" ; Times: 1
+	Query: "sigmodon hispidus stateprovince:"Alabama"" ; Times: 1
+	Query: "country:"Panama" specificepithet:perspicillata genus:Carollia" ; Times: 2
+	Query: "country:"panama" specificepithet:hirsuta genus:Micronycteris" ; Times: 1
+	Query: "specificepithet:hastatus genus:Phyllostomus" ; Times: 1
+	Query: "sylvilagus transitionalis type:specimen" ; Times: 2
+	Query: "white-tailed deer fawn" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "cayuta" ; Times: 2
+	Query: "tadarida distance(location,geopoint(20.34462694382972,-78.046875))<777129.9975224108" ; Times: 1
+	Query: "lutra canadensis" ; Times: 2
+	Query: "Swamp Rabbit" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "country:"Panama" specificepithet:bilobatum genus:Uroderma" ; Times: 1
+	Query: "caribou" ; Times: 1
+	Query: "tadarida distance(location,geopoint(20.014645445341404,-63.6328125))<777129.9975224108" ; Times: 1
+	Query: "country:"Panama" specificepithet:villosum genus:Chiroderma" ; Times: 1
+	Query: "Cyclopes didactylus type:specimen (Mexico)" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "type:specimen specificepithet:cinerea genus:Neotoma year >= 1800 year <= 2014" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "tadarida distance(location,geopoint(21.0845000835174,-68.90625))<777129.9975224108" ; Times: 1
+	Query: "sylvilagus aquaticus" ; Times: 3
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "monodon monoceros" ; Times: 5
+	Query: "coati" ; Times: 3
+	Query: "peromyscus leucopus stateprovince:"Alabama"" ; Times: 2
+	Query: "country:"Panama" specificepithet:cirrhosus genus:Trachops" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(41.64007838467894,-75.322265625))<312113" ; Times: 2
+	Query: "tadarida distance(location,geopoint(25.83944940206321,-78.662109375))<414499" ; Times: 1
+	Query: "country:"Panama" specificepithet:albiventris genus:Noctilio" ; Times: 1
+	Query: "country:"Panama" specificepithet:parnellii genus:Pteronotus" ; Times: 1
+	Query: "specificepithet:caraccioli genus:Vampyrodes" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "myocastor coypus" ; Times: 6
+	Query: "country:"Panama" specificepithet:lituratus genus:Artibeus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 278 download events in this period)
+Total number of records downloaded: 1801 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 823
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-05 ; Times: 1
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-10 ; Times: 2
+	Date: 2014-06-13 ; Times: 2
+	Date: 2014-06-18 ; Times: 2
+	Date: 2014-06-23 ; Times: 2
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal mammals stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "mammalia texas mappable:1" ; Times: 1
+	Query: "Mammalia stateprovince:"Texas" mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus year >= 1970 year <= 1985" ; Times: 1
+	Query: "Mephitis mephitis country:"United States" year <= 2014" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "type:specimen specificepithet:cinerea genus:Neotoma year >= 1800 year <= 2014" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "Mammals stateprovince:"Veracruz" AND (Veracruz)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 126
+Total number of records retrieved from searches: 985
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 1862
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 126
+Total number of records retrieved from searches: 985
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 1862
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
