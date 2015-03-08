@@ -1,0 +1,176 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 850
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 64
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-04 ; Times: 9
+	Date: 2015-02-05 ; Times: 11
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 4
+	Date: 2015-02-10 ; Times: 8
+	Date: 2015-02-13 ; Times: 4
+	Date: 2015-02-15 ; Times: 2
+	Date: 2015-02-19 ; Times: 5
+	Date: 2015-02-20 ; Times: 2
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 5
+	Date: 2015-02-25 ; Times: 7
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:polionotus genus:peromyscus year >= 1970 year <= 2015" ; Times: 2
+	Query: "stateprovince:"North Carolina" specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "stateprovince:"North Carolina" specificepithet:polionotus genus:peromyscus year >= 1970 year <= 2015" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "type:specimen county:"Tompkins" stateprovince:"New York" specificepithet:Leucopus genus:Peromyscus" ; Times: 1
+	Query: "Mclean illinois mammals" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "gopher" ; Times: 2
+	Query: "greene stateprovince: New York" ; Times: 1
+	Query: "terrapin" ; Times: 1
+	Query: "indiana bat" ; Times: 1
+	Query: "Taxidea" ; Times: 1
+	Query: "stateprovince:"Massachusetts" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "O Marsh" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts" class:Mammalia year <= 2015" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "rabbits" ; Times: 1
+	Query: "Buckley" ; Times: 1
+	Query: "Mclean county illinois" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "subflavus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Didelphis virginiana type:specimen (pouch)" ; Times: 1
+	Query: ""Procyon lotor"" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1970" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts" class:Mammalia" ; Times: 1
+	Query: "phyllostomus hastatus" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:polionotus genus:peromyscus" ; Times: 1
+	Query: "connecticut hill stateprovince:"New York"" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 1
+	Query: "kingsnake" ; Times: 1
+	Query: "type:specimen stateprovince:"kentucky" specificepithet:striatus genus:Tamias year >= 1960 year <= 2010" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias year >= 1920" ; Times: 1
+	Query: "type:specimen stateprovince:"Florida" specificepithet:floridana genus:neotoma year >= 1970 year <= 2015" ; Times: 1
+	Query: "northern short tailed shrew 1993" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 3
+	Query: "stateprovince:"Alabama" specificepithet:polionotus genus:peromyscus year >= 1950" ; Times: 2
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Sorex arizonae" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "Raccoon" ; Times: 1
+	Query: "county:"chesapeake" stateprovince:"Virginia" class:mammalia year >= 1940 year <= 2015" ; Times: 1
+	Query: ""sus scrofa"" ; Times: 3
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "solenodon" ; Times: 1
+	Query: "hybrid mammal type:specimen" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "northern short tailed shrew" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "population count data" ; Times: 1
+	Query: "stateprovince:"New Hampshire" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1950 year <= 1970" ; Times: 2
+	Query: "stateprovince:"North Carolina" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Mclean county illinois mammals" ; Times: 1
+	Query: "class:Mammalia Homo sapiens" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 326 download events in this period)
+Total number of records downloaded: 6904 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5823
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-13 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 7
+	Date: 2015-02-25 ; Times: 7
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "genus:Monodon" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "CHILE" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "genus:Grampus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "stateprovince:"New York" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Louisiana" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "stateprovince:"Tennessee" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "stateprovince:"North Carolina" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 525
+Total number of records retrieved from searches: 2963
+Number of download events that retrieved data from the resource: 92
+Total number of records downloaded: 28080
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 602
+Total number of records retrieved from searches: 4175
+Number of download events that retrieved data from the resource: 229
+Total number of records downloaded: 44526
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
