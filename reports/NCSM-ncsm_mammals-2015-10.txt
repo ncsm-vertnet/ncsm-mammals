@@ -1,0 +1,231 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 1115
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 90
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 12
+	Date: 2015-10-15 ; Times: 5
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-24 ; Times: 7
+	Date: 2015-10-23 ; Times: 7
+	Date: 2015-10-22 ; Times: 5
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 2
+	Date: 2015-10-07 ; Times: 9
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 6
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "whale" ; Times: 2
+	Query: "cervus nippon" ; Times: 1
+	Query: "procyon lotor type:specimen county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;texas&#34; year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "spilogale putorius country:&#34;United States&#34; AND (NOT california NOT oregon NOT Arizona NOT mexico NOT washington NOT brewster NOT presidio NOT Africa)" ; Times: 1
+	Query: "mouse texas" ; Times: 3
+	Query: "bats" ; Times: 3
+	Query: "synaptomys cooperi" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "suffolk county north country road" ; Times: 1
+	Query: "African wild dog specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "procyon lotor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "uk otter" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;north carolina&#34; year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "vampire" ; Times: 7
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin)" ; Times: 1
+	Query: "spilogale putorius AND (NOT california NOT oregon NOT Arizona NOT mexico)" ; Times: 1
+	Query: "Odocoileus virginianus and 2014" ; Times: 1
+	Query: "procyon lotor type:specimen institutioncode:NCSM" ; Times: 2
+	Query: "procyon lotor county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Derby county:&#34;Richmond&#34;" ; Times: 2
+	Query: "spilogale putorius AND (NOT california NOT oregon NOT Arizona NOT mexico NOT washington NOT brewster NOT presidio)" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 6
+	Query: "dogs" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "Odocoileus virginianus and Pennsylvania" ; Times: 1
+	Query: "sus scrofa" ; Times: 5
+	Query: "SR 1340 collectioncode:NCSM" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "pocket mouse" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "cetacea AND (fetus OR embryo)" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Alabama&#34; mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus and South Carolina" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Leopardus institutioncode:NCSM" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "&#34;African wild dog&#34; specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen (New York)" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "pellet" ; Times: 1
+	Query: "Odocoileus virginianus and wyoming" ; Times: 1
+	Query: "deer antler" ; Times: 4
+	Query: "blue whale" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "hoary bat" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "procyon lotor illinois" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "procyon lotor county:&#34;Currituck&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "cynomys gunnisoni" ; Times: 1
+	Query: "Microtus chrotorrhinus Tennessee" ; Times: 1
+	Query: "spilogale putorius AND (NOT california NOT oregon NOT Arizona NOT mexico NOT washington)" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Alabama&#34; year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Brown bats" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 823 download events in this period)
+Total number of records downloaded: 988
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 55
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 10
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 12
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "mouse texas" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Tamiasciurus hudsonicus stateprovince:&#34;North Carolina&#34; mappable:1" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Mammals in Ethiopia" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "deer antler" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "ovis aries" ; Times: 1
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
