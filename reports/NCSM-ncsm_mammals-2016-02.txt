@@ -1,0 +1,166 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 389
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 67
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 6
+	Date: 2016-02-12 ; Times: 12
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-03 ; Times: 6
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 3
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-04 ; Times: 13
+	Date: 2016-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "coati" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+	Query: "13 lined ground squirrel" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Armadillo&#34; mappable:1" ; Times: 1
+	Query: "bats" ; Times: 3
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "cingulata mappable:1" ; Times: 2
+	Query: "usnm mammalia rodentia" ; Times: 1
+	Query: "iyoob" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vampire" ; Times: 11
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "Prairie dog" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "St. Lucia" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "microtus leucopus" ; Times: 2
+	Query: "microtus pennsylvanicus south carolina" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Kangaroo rat mappable:1" ; Times: 1
+	Query: "Myotis septentrionalis (Indiana)" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 5
+	Query: "Urocyon" ; Times: 1
+	Query: "tom white" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Neovison vison" ; Times: 1
+	Query: "cascade caverns" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:cricetidae (8251 )" ; Times: 1
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Myotis septentrionalis (Wisconsin)" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;ALASKA&#34;" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "class:mammalia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 512 download events in this period)
+Total number of records downloaded: 1410
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 18
+	Country: Mexico ; Times: 21
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 3
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
