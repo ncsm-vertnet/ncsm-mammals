@@ -1,0 +1,237 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 834
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 26
+	Country: Poland ; Times: 2
+	Country: United States ; Times: 80
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 16
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 5
+	Date: 2016-04-20 ; Times: 11
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-08 ; Times: 5
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 3
+	Date: 2016-04-27 ; Times: 21
+	Date: 2016-04-26 ; Times: 14
+	Date: 2016-04-22 ; Times: 8
+	Date: 2016-04-18 ; Times: 8
+	Date: 2016-04-19 ; Times: 5
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-15 ; Times: 5
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 5
+	Date: 2016-04-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Myocaster" ; Times: 1
+	Query: "Balaenoptera" ; Times: 1
+	Query: "vampire" ; Times: 18
+	Query: "population data" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "genus:dasypus class:mammalia" ; Times: 1
+	Query: "Suidae" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.937516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 4
+	Query: "R-15469" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "class:Mammalia genus:dasypus" ; Times: 1
+	Query: "county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Minnesota Point" ; Times: 2
+	Query: "Sorex hoyi stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "whitetail deer" ; Times: 2
+	Query: "little brown bat" ; Times: 1
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "white tailed deer" ; Times: 2
+	Query: "CINGULATA" ; Times: 2
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "allegheny woodrat" ; Times: 3
+	Query: "dasypodidae" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-111.487516))&lt;15000" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "Equus AND Island" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "humpback whale" ; Times: 1
+	Query: "pitfalls" ; Times: 1
+	Query: "mink frog" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.317516))&lt;15000" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "order:artiodactyla class:Mammalia (weight)" ; Times: 4
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "transitionalis" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "White-tailed deer" ; Times: 2
+	Query: "mallard population" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 5
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus tennessee" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "genus:sus" ; Times: 2
+	Query: "14798" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "genus:peromyscus locality:chiricahua" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "rafinesquii (Corynorhinus)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Bison bonasus" ; Times: 1
+	Query: "14199" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "Smyrna" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Perissodactyla" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 154 (out of 1312 download events in this period)
+Total number of records downloaded: 5385
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 22
+	Country: United States ; Times: 93
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 9
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 7
+	Date: 2016-04-22 ; Times: 7
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 16
+	Date: 2016-04-15 ; Times: 9
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Douglas Fir mappable:1 distance(location,geopoint(45.706179285330876,-122.4755859375))&lt;100000" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "Minnesota Point" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+
+End of report.
