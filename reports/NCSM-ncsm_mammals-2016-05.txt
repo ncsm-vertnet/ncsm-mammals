@@ -1,0 +1,116 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 347
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-15 ; Times: 9
+	Date: 2016-05-14 ; Times: 3
+	Date: 2016-05-13 ; Times: 5
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "hare" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "least shrew" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Equidae" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "allegheny woodrat" ; Times: 1
+	Query: "Pantherophis guttata stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Merchants Millpond State Park" ; Times: 1
+	Query: "WAM" ; Times: 1
+	Query: "Mammals stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 9
+	Query: "pika" ; Times: 3
+	Query: "lontra canadensis" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "sapphire" ; Times: 1
+	Query: "(lontra canadensis) institutioncode:NCSM" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 327 download events in this period)
+Total number of records downloaded: 3674
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 27
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+
+
+End of report.
