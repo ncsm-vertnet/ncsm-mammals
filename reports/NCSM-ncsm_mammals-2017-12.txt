@@ -1,0 +1,255 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 173
+Number of records retrieved in searches: 2143
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 147
+	Country: Gambia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Unknown ; Times: 14
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-15 ; Times: 6
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-18 ; Times: 5
+	Date: 2017-12-19 ; Times: 13
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-26 ; Times: 5
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 8
+	Date: 2017-12-22 ; Times: 2
+	Date: 2017-12-21 ; Times: 7
+	Date: 2017-12-20 ; Times: 11
+	Date: 2017-12-05 ; Times: 16
+	Date: 2017-12-04 ; Times: 23
+	Date: 2017-12-07 ; Times: 10
+	Date: 2017-12-06 ; Times: 14
+	Date: 2017-12-01 ; Times: 10
+	Date: 2017-12-03 ; Times: 10
+	Date: 2017-12-02 ; Times: 7
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 3
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 2
+	Query: "ermine" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "sorex hoyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Least Weasel" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "genus:lycaon country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "gull island genus:microtus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Lepus Townsendii" ; Times: 1
+	Query: "Gray Wolf" ; Times: 1
+	Query: "Whitetail deer" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 2
+	Query: "distance(location,geopoint(38.6132784850001,-77.253637501))&lt;1575" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Ermine" ; Times: 1
+	Query: "distance(location,geopoint(37.8766483865001,-75.4668140885))&lt;7719" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 1
+	Query: "specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Myotis stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "DOT 7694" ; Times: 1
+	Query: "sorex dispar" ; Times: 2
+	Query: "distance(location,geopoint(37.9136356015001,-75.9697491285))&lt;15661" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 9
+	Query: "microtus townsendi" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;north carolina&#34;" ; Times: 5
+	Query: "Sorex haydeni" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma institutioncode:NCSM" ; Times: 1
+	Query: "DOT 17712" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "Bobcat" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "Red wolf" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "distance(location,geopoint(38.6376794455001,-77.1774129189999))&lt;3657" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "lemur" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "black bear" ; Times: 10
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "dot 208" ; Times: 1
+	Query: "star-nosed mole" ; Times: 4
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:magister genus:neotoma institutioncode:NCSM" ; Times: 1
+	Query: "white tailed deer" ; Times: 2
+	Query: "river otter" ; Times: 5
+	Query: "genus:Lasiurus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "moose animal" ; Times: 1
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "distance(location,geopoint(44.839271747,-71.6058302245))&lt;20600" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "White Tailed Deer" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "Pituophis melanoleucus north carolina" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "distance(location,geopoint(37.9686338914285,-75.3035205898625))&lt;5430" ; Times: 1
+	Query: "Brown bat" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "DOT 7723" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "rock hyrax" ; Times: 1
+	Query: "DOT 7815" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "locality:Laurel Creek county:&#34;Watauga&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "north haven specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "fishlake national forest" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 3
+	Query: "chipmunk" ; Times: 2
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "DOT 208" ; Times: 1
+	Query: "Appalachian cottontail" ; Times: 1
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 3
+	Query: "capybara" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "distance(location,geopoint(35.0813240665001,-80.051390608))&lt;5960" ; Times: 1
+	Query: "gray squirrel" ; Times: 5
+	Query: "sorex haydeni" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Myotis septentrionalis (Wisconsin)" ; Times: 3
+	Query: "Black Bear" ; Times: 5
+	Query: "canis rufus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 674 download events in this period)
+Total number of records downloaded: 5791
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 11
+	Date: 2017-12-26 ; Times: 21
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "gull island genus:microtus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "sorex dispar" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Appalachian cottontail" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "Tatera indica" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "neotamias amoenus" ; Times: 5
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
