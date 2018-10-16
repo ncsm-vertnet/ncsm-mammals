@@ -1,0 +1,370 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 312
+Number of records retrieved in searches: 1750
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: Israel ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 30
+	Country: Singapore ; Times: 4
+	Country: United States ; Times: 212
+	Country: Colombia ; Times: 22
+	Country: Dominican Republic ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 32
+	Date: 2018-02-03 ; Times: 12
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 50
+	Date: 2018-02-07 ; Times: 22
+	Date: 2018-02-06 ; Times: 36
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-04 ; Times: 19
+	Date: 2018-02-21 ; Times: 10
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-22 ; Times: 5
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-27 ; Times: 22
+	Date: 2018-02-26 ; Times: 5
+	Date: 2018-02-28 ; Times: 10
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 23
+	Date: 2018-02-16 ; Times: 14
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 10
+	Date: 2018-02-13 ; Times: 8
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "NCSM 15327" ; Times: 4
+	Query: "10066" ; Times: 1
+	Query: "distance(location,geopoint(44.4012615325,-95.851061068))&lt;29711" ; Times: 4
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "scientificname:&#34;cheirogaleus medius&#34;" ; Times: 1
+	Query: "Tarsius tarsier " ; Times: 1
+	Query: "(north american interchange) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.5120911515,-95.383909072))&lt;30045" ; Times: 4
+	Query: "catalognumber:10231 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "Meadow Jumping Mouse" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "NCSM 15348" ; Times: 6
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "distance(location,geopoint(43.1568193015,-94.962755099))&lt;9126" ; Times: 7
+	Query: "Notiosorex stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 3
+	Query: "Tailed frog" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "manatee" ; Times: 1
+	Query: "county:&#34;rockingham&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Pagophilus groenlandicus " ; Times: 1
+	Query: "harbor seal" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 4
+	Query: "distance(location,geopoint(44.472461768,-96.259428062))&lt;22713" ; Times: 4
+	Query: "NCSM 15355" ; Times: 2
+	Query: "specificepithet:virginiana genus:didelphis stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 4
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 4
+	Query: "iptrecordid:&#34;65845264-E1F9-4207-880B-B28D6EA38E32&#34;" ; Times: 2
+	Query: "Cervus nippon " ; Times: 1
+	Query: "specificepithet:ochrogaster genus:microtus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "&#34;lutra lutra&#34; mappable:1" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:NCSM" ; Times: 1
+	Query: "Pikas" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "iptrecordid:&#34;D6E50FA3-364D-4B4F-A666-C48455AA2726&#34;" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "15928" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:NCSM" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "grampus griseus" ; Times: 3
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "(19137)" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 4
+	Query: "Cystophora cristata " ; Times: 1
+	Query: "napaeozapus insignis" ; Times: 3
+	Query: "specificepithet:striatus genus:tamias stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;A34CC887-E88F-41AD-BFD2-1B3F1176D91E&#34;" ; Times: 4
+	Query: "distance(location,geopoint(44.7957518880001,-91.7466035155))&lt;14610" ; Times: 4
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "genus:notiosorex institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Parnell Feature" ; Times: 2
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "ambergris" ; Times: 1
+	Query: "Cheirogaleus medius" ; Times: 3
+	Query: "Monodon monoceros mappable:1" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:NCSM" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Mustela putorius furo" ; Times: 1
+	Query: "shrew stateprovince:&#34;Washington&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "county:&#34;forsyth&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "catalognumber:447" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;hays&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Cheirogaleus" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "Tragelaphus oryx" ; Times: 2
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "county:&#34;Richmond&#34; stateprovince:&#34;New York&#34; mappable:1" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "Mesoplodon mirus " ; Times: 1
+	Query: "arctictis" ; Times: 1
+	Query: "distance(location,geopoint(45.7638797805,-96.6239940795))&lt;23445" ; Times: 4
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 4
+	Query: "specificepithet:carolinensis genus:blarina county:&#34;collier&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;15C1E648-E1AB-4B3F-9238-0AEFBD3D5056&#34;" ; Times: 4
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "distance(location,geopoint(26.0674514330001,-98.143681322))&lt;2793" ; Times: 1
+	Query: "Alces alces" ; Times: 3
+	Query: "pinniped" ; Times: 1
+	Query: "Cheirogaleus medius " ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 3
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 4
+	Query: "county:&#34;Hildago&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 7
+	Query: "Ziphius cavirostris" ; Times: 1
+	Query: "Sylvilagus obscurus " ; Times: 1
+	Query: "Dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Parnell" ; Times: 6
+	Query: "parnell" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "fieldnumber:464" ; Times: 1
+	Query: "River Otter" ; Times: 1
+	Query: "NCSM 15329" ; Times: 2
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "NCSM 15324" ; Times: 2
+	Query: "Mesoplodon europaeus " ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 4
+	Query: "specificepithet:brevicauda genus:blarina stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Whitetail deer" ; Times: 3
+	Query: "UNCW" ; Times: 1
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;kentucky&#34;" ; Times: 2
+	Query: "Presbytis comata " ; Times: 1
+	Query: "Geomys pinetis" ; Times: 5
+	Query: "catalognumber:10378 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "Alces alces alces" ; Times: 3
+	Query: "ringtail" ; Times: 1
+	Query: "Cervus nippon" ; Times: 22
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "Pangolin" ; Times: 2
+	Query: "iptrecordid:&#34;01CFAF5B-9AB7-4DFA-87DB-DA90B2AEA3FF&#34;" ; Times: 2
+	Query: "cephalophus dorsalis" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Mammals in montana" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:NCSM" ; Times: 1
+	Query: "NCSM 15326" ; Times: 2
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 1892 download events in this period)
+Total number of records downloaded: 29839
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 110
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Kuwait ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-13 ; Times: 5
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 87
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia institutioncode:NCSM" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "Parnell Feature Odocoileus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "tatera indica" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Mormoops blainvillei" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
