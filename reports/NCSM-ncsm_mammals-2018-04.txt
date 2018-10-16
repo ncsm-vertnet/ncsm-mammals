@@ -1,0 +1,371 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 423
+Number of records retrieved in searches: 3680
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 397
+	Country: China ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 60
+	Date: 2018-04-22 ; Times: 5
+	Date: 2018-04-21 ; Times: 6
+	Date: 2018-04-20 ; Times: 4
+	Date: 2018-04-27 ; Times: 8
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 12
+	Date: 2018-04-24 ; Times: 62
+	Date: 2018-04-01 ; Times: 34
+	Date: 2018-04-03 ; Times: 42
+	Date: 2018-04-02 ; Times: 11
+	Date: 2018-04-05 ; Times: 37
+	Date: 2018-04-04 ; Times: 21
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 6
+	Date: 2018-04-09 ; Times: 8
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-16 ; Times: 10
+	Date: 2018-04-12 ; Times: 6
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 13
+	Date: 2018-04-11 ; Times: 7
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 46
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "catalognumber:15655 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis mappable:1" ; Times: 1
+	Query: "genus:Odocoileus specificepithet:virginianus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:longirostris mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:difficilis mappable:1" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Perimyotis month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "genus:Microtus specificepithet:canicaudus mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 3
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 7
+	Query: "genus:Ammospermophilus specificepithet:harrisii mappable:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 5
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 8
+	Query: "&#34;weymouth&#34;" ; Times: 1
+	Query: "genus:Sorex specificepithet:dispar mappable:1" ; Times: 2
+	Query: "trichechus manatus" ; Times: 4
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris" ; Times: 1
+	Query: "macrotus californicus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "genus:Neurotrichus specificepithet:gibbsii mappable:1" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "genus:Sorex specificepithet:hoyi mappable:1" ; Times: 2
+	Query: "genus:Notiosorex specificepithet:crawfordi mappable:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 6
+	Query: "specificepithet:zibethicus genus:Ondatra" ; Times: 1
+	Query: "(erythristic OR &#34;all red&#34;)" ; Times: 2
+	Query: "specificepithet:Catus genus:Felis" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:mexicanus mappable:1" ; Times: 2
+	Query: "bobcat mappable:1" ; Times: 8
+	Query: "lobodon" ; Times: 1
+	Query: "specificepithet:zibethicus genus:ondatra" ; Times: 2
+	Query: "specificepithet:pictus genus:Lycaon year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 2
+	Query: "eumops underwoodi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "class:Mammalia county:&#34;Spartanburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 3
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:bachmani mappable:1" ; Times: 2
+	Query: "genus:Mustela specificepithet:nivalis mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota mappable:1" ; Times: 1
+	Query: "genus:Trichechus specificepithet:manatus mappable:1" ; Times: 2
+	Query: "Lasiurus intermedius mappable:1" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "distance(location,geopoint(45.49369,-89.58571))&lt;50000" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "Pinniped" ; Times: 3
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 4
+	Query: "parnell" ; Times: 3
+	Query: "Sus scrofa" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:hispidus mappable:1 hasmass:1" ; Times: 2
+	Query: "corynorhinus townsendii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Lepus specificepithet:townsendii mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:arizonae mappable:1" ; Times: 2
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 6
+	Query: "genus:Ursus specificepithet:americanus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Cynomys specificepithet:leucurus mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:jubatus genus:eumetopias" ; Times: 1
+	Query: "genus:Alces specificepithet:americanus mappable:1" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 5
+	Query: "genus:Lemmus specificepithet:trimucronatus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Didelphis" ; Times: 1
+	Query: "catalognumber:15318 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "Parnell" ; Times: 5
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "genus:Neofiber specificepithet:alleni mappable:1" ; Times: 1
+	Query: "genus:trachops " ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 7
+	Query: "genus:Lasionycteris year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:beecheyi mappable:1" ; Times: 2
+	Query: "white tail deer" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "mustela erminea" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:phocoena genus:Phocoena" ; Times: 5
+	Query: "genus:Peromyscus specificepithet:gossypinus mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "genus:Ochrotomys specificepithet:nuttalli mappable:1 hasmass:1" ; Times: 1
+	Query: "dipodomys spectabilis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Myodes specificepithet:californicus mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:haydeni mappable:1" ; Times: 2
+	Query: "catalognumber:15338 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:obscurus mappable:1" ; Times: 2
+	Query: "Lepus californicus" ; Times: 1
+	Query: "genus:Sorex specificepithet:arcticus mappable:1" ; Times: 2
+	Query: "genus:Podomys specificepithet:floridanus mappable:1" ; Times: 1
+	Query: "catalognumber:15317 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "specificepithet:douglasii genus:tamiasciurus" ; Times: 1
+	Query: "Myotis leibii" ; Times: 5
+	Query: "mammalia (marthas vineyard)" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "copperhead data" ; Times: 4
+	Query: "porpoise" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 3
+	Query: "genus:Neotoma specificepithet:magister mappable:1" ; Times: 1
+	Query: "sorex arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Northern fur seal" ; Times: 1
+	Query: "genus:Cynomys specificepithet:ludovicianus mappable:1" ; Times: 1
+	Query: "genus:Condylura specificepithet:cristata mappable:1" ; Times: 1
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 2
+	Query: "Parnell Feature 1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:nayaritensis mappable:1" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "virginia opossum" ; Times: 6
+	Query: "genus:didelphis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "river otter" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(45.50894,-89.58637))&lt;50000" ; Times: 1
+	Query: "grampus" ; Times: 1
+	Query: "catalognumber:15536 collectioncode:NCSM institutioncode:NCSM" ; Times: 2
+	Query: "Eubalaena" ; Times: 1
+	Query: "Choeronycteris mexicana mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 3
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Colombia Surinam Guyana)" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:palustris mappable:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 3
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Peru)" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius mappable:1" ; Times: 2
+	Query: "hispid cotton rat stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "10019" ; Times: 1
+	Query: "catalognumber:15654 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:arizonae genus:Sorex" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus" ; Times: 4
+	Query: "genus:Urocyon specificepithet:cinereoargenteus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:humulis mappable:1" ; Times: 1
+	Query: "genus:Cynomys specificepithet:gunnisoni mappable:1" ; Times: 1
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "genus:Sorex specificepithet:palustris mappable:1" ; Times: 1
+	Query: "pinniped" ; Times: 3
+	Query: "Parnell Feature" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 3
+	Query: "harbor porpoise" ; Times: 1
+	Query: "catalognumber:2150 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "genus:Eutamias" ; Times: 2
+	Query: "mustela vison" ; Times: 2
+	Query: "Eumops perotis" ; Times: 1
+	Query: "genus:Sorex specificepithet:longirostris mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:15340 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 9
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "Eumops underwoodi mappable:1" ; Times: 2
+	Query: "trichechus manatus manatus" ; Times: 3
+	Query: "genus:Sorex specificepithet:fumeus mappable:1" ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana mappable:1" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus mappable:1" ; Times: 2
+	Query: "leptonycteris yerbabuenae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Trichechus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Blarina mappable:1" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "catalognumber:15350 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "eumops perotis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:15656 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis mappable:1" ; Times: 2
+	Query: "genus:Canis specificepithet:rufus mappable:1" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "myotis evotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "ammospermophilus harrisii stateprovince:Arizona mappable:1" ; Times: 16
+	Query: "sciurus nayaritensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:15352 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "genus:Parascalops specificepithet:breweri mappable:1" ; Times: 1
+	Query: "Lontra canadensis mappable:1" ; Times: 3
+	Query: "specificepithet:phocoena genus:phocoena" ; Times: 8
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "catalognumber:15345 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "choeronycteris mexicana stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Pecari specificepithet:tajacu mappable:1" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Sorex specificepithet:fumeus mappable:1 hasmass:1" ; Times: 2
+	Query: "catalognumber:15315 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "harbor Porpoise" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hasmass:1 mappable:1" ; Times: 1
+	Query: "specificepithet:familiaris genus:canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Geomys specificepithet:pinetis mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:frenata mappable:1 hasmass:1" ; Times: 1
+	Query: "blue whale" ; Times: 3
+	Query: "Lasiurus intermedius mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:tundrensis mappable:1" ; Times: 2
+	Query: "genus:Martes specificepithet:pennanti mappable:1" ; Times: 3
+	Query: "genus:Tamias specificepithet:townsendii mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "Mustela year&gt;=1990 year&lt;=1992 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:californicus genus:myodes" ; Times: 2
+	Query: "neurotrichus" ; Times: 1
+	Query: "catalognumber:15359 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "lasiurus sp" ; Times: 1
+	Query: "Trichechus manatus manatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1359 download events in this period)
+Total number of records downloaded: 7126
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-15 ; Times: 14
+	Date: 2018-04-09 ; Times: 8
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "Parnell Feature 1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Perimyotis month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "distance(location,geopoint(45.50894,-89.58637))&lt;50000" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 9
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.49369,-89.58571))&lt;50000" ; Times: 2
+
+
+End of report.
