@@ -1,0 +1,222 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 3495
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 124
+	Country: Italy ; Times: 45
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Namibia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 2
+	Country: Norway ; Times: 5
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 11
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-24 ; Times: 7
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 16
+	Date: 2018-05-04 ; Times: 24
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 7
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 19
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-15 ; Times: 5
+	Date: 2018-05-14 ; Times: 7
+	Date: 2018-05-17 ; Times: 7
+	Date: 2018-05-16 ; Times: 24
+	Date: 2018-05-11 ; Times: 7
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 14
+	Date: 2018-05-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis melanoleucus stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(44.4012615325,-95.851061068))&lt;29711" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:NCSM" ; Times: 1
+	Query: "distance(location,geopoint(47.5120911515,-95.383909072))&lt;30045" ; Times: 2
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "NCSM 6003" ; Times: 2
+	Query: "distance(location,geopoint(43.1568193015,-94.962755099))&lt;9126" ; Times: 2
+	Query: "distance(location,geopoint(44.472461768,-96.259428062))&lt;22713" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 2
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 2
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "NCSM 16814" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "10048" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 8
+	Query: "pantherophis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "specificepithet:Lutra genus:lutra" ; Times: 1
+	Query: "Dogs" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "distance(location,geopoint(44.7957518880001,-91.7466035155))&lt;14610" ; Times: 2
+	Query: "franklin north carolina" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "DOT 9219" ; Times: 2
+	Query: "mountain lake biological" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "peromycus" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "(&#34;dolly sods&#34;)" ; Times: 1
+	Query: "NCSM 11051" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 6
+	Query: "specificepithet:polionotus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "DOt 6180" ; Times: 1
+	Query: "NCSM 12737" ; Times: 1
+	Query: "Copperhead Data" ; Times: 2
+	Query: "texas tech desmodus rotundus" ; Times: 1
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Yancey&#34; stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1890 year &lt;= 1899 institutioncode:NCSM" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "NCSM 11052" ; Times: 1
+	Query: "Brazilian free-tailed bat" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.7638797805,-96.6239940795))&lt;23445" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 2
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "NCSM 6096" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(43.1568148048088,-94.9628162599623))&lt;22978" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "bowling green" ; Times: 2
+	Query: "distance(location,geopoint(41.9940224167435,-83.301798682683))&lt;9649" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:NCSM" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 2
+	Query: "NCSM 11047" ; Times: 1
+	Query: "tree kangaroo" ; Times: 2
+	Query: "Peromycus leucopus" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 2
+	Query: "NCSM 14726" ; Times: 1
+	Query: "Hemitragus" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 6
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 9
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "NCSM 15321" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "capybara" ; Times: 1
+	Query: "lack 65" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "NCSM 7432" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 3
+	Query: "blue whale" ; Times: 2
+	Query: "eastern red bat" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "distance(location,geopoint(39.2687332665436,-90.7884712327553))&lt;17866" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 8
+	Query: "Lutra lutra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1178 download events in this period)
+Total number of records downloaded: 852
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-18 ; Times: 3
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "mountain lake biological station" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+
+
+End of report.
