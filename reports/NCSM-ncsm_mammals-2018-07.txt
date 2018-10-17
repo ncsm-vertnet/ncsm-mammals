@@ -1,0 +1,171 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 1085
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 98
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Papua New Guinea ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 14
+	Date: 2018-07-01 ; Times: 3
+	Date: 2018-07-02 ; Times: 8
+	Date: 2018-07-03 ; Times: 6
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-27 ; Times: 10
+	Date: 2018-07-24 ; Times: 6
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 9
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-17 ; Times: 11
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 3
+	Date: 2018-07-31 ; Times: 4
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "14651" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "7111 genus:MYOTIS class:MAMMALIA" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 6
+	Query: "9524" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Hydrochoerus hydrochaeris argentina" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "THE NATURAL HISTORY SOCIETY OF MARYLAND" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "vntype:specimen family:Canidae continent:Australia" ; Times: 1
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:NCSM" ; Times: 2
+	Query: "14616" ; Times: 1
+	Query: "Canis latrans mappable:1" ; Times: 4
+	Query: "wilson 1855" ; Times: 1
+	Query: "WM 3" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "South toe north carolina" ; Times: 1
+	Query: "black footed ferret" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 5
+	Query: "Lutra canadensis" ; Times: 5
+	Query: "specificepithet:rufus genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "(Mallory)" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "18420" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "locality:green rock" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 2
+	Query: "canis latrans mappable:1" ; Times: 1
+	Query: "genus:Scalopus stateprovince:Kentucky" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "16129" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "catalognumber:422 institutioncode:NCSM" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "neotoma magister" ; Times: 9
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vole skulls" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "genus:tamiasciurus institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:putorius genus:spilogale stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:canis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "clarke county virginia" ; Times: 2
+	Query: "18318" ; Times: 1
+	Query: "Conover" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:cooperi genus:synaptomys stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "pika" ; Times: 2
+	Query: "county:&#34;Patrick&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catalognumber:6850 institutioncode:NCSM" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Hunter Island" ; Times: 1
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "right whale 2016" ; Times: 1
+	Query: "pantherophis guttata guttata" ; Times: 1
+	Query: "catalognumber:14838 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:arizonae genus:sorex" ; Times: 1
+	Query: "Tree kangaroo" ; Times: 2
+	Query: "cerulean" ; Times: 1
+	Query: "ncsm 9171" ; Times: 1
+	Query: "genus:Parascalops" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 5
+	Query: "1455 KY" ; Times: 1
+	Query: "graham specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 977 download events in this period)
+Total number of records downloaded: 539
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2003 year &lt;= 2018" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:putorius genus:spilogale stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:canis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+
+
+End of report.
