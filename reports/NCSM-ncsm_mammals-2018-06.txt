@@ -1,0 +1,227 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 929
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 107
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 25
+	Date: 2018-06-06 ; Times: 14
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 6
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-27 ; Times: 7
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 6
+	Date: 2018-06-08 ; Times: 7
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-22 ; Times: 8
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 7
+	Date: 2018-06-13 ; Times: 8
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cheirogaleus medius" ; Times: 5
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "sorex hoyi" ; Times: 3
+	Query: "Mysticeti" ; Times: 1
+	Query: "South toe north carolina" ; Times: 2
+	Query: "Eschrichtius robustus" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "NCSM 14726" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Gray Wolf" ; Times: 2
+	Query: "Black bear" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "giraffa" ; Times: 1
+	Query: "kangaroo rat" ; Times: 3
+	Query: "white-tailed deer" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "lemming" ; Times: 2
+	Query: "fieldnumber:7927" ; Times: 1
+	Query: "county:&#34;Davie&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "eno river" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "rhogeessa parvula" ; Times: 2
+	Query: "eptisicus" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "genus:Eumops stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Hancock County West Virginia" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "Chiroptera county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "appendages" ; Times: 1
+	Query: "seal fur" ; Times: 1
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "eastern chipmunk" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "mink frog" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "lemur" ; Times: 1
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rhododendron" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "bobcat" ; Times: 7
+	Query: "Cheirogaleus" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "NCSM 11051" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "White Oak creek" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "porch" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Mesoplodon mirus United States" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "mammalian" ; Times: 1
+	Query: "cerulean" ; Times: 1
+	Query: "Bobcat" ; Times: 2
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 6
+	Query: "western squirrel" ; Times: 1
+	Query: "Mesoplodon mirus" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "Odocoileus virginianus sp." ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "NCSM 6096" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Seal Fur" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "dinosaur north carolina" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1169 download events in this period)
+Total number of records downloaded: 1912
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 51
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-07 ; Times: 17
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 2
+	Query: "eno river" ; Times: 1
+	Query: "Mysticeti" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "mink frog" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "pickerel frog" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Nyctinomops" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+
+
+End of report.
