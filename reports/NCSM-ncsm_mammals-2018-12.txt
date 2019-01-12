@@ -1,0 +1,212 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 847
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 91
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 4
+	Date: 2018-12-19 ; Times: 4
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 4
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-14 ; Times: 8
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 8
+	Date: 2018-12-12 ; Times: 12
+	Date: 2018-12-21 ; Times: 6
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 8
+	Date: 2018-12-27 ; Times: 3
+	Date: 2018-12-06 ; Times: 16
+	Date: 2018-12-07 ; Times: 6
+	Date: 2018-12-04 ; Times: 5
+	Date: 2018-12-05 ; Times: 7
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 11
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "specificepithet:townsendii genus:lepus institutioncode:NCSM" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Tursiops truncatus mappable:1" ; Times: 1
+	Query: "Parascalops" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "parnell" ; Times: 1
+	Query: "16431" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;North Carolina&#34; AND (NOT OMNH)" ; Times: 1
+	Query: "specificepithet:latrans genus:canis county:&#34;leavenworth&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "eumops underwoodi" ; Times: 1
+	Query: "14136 institutioncode:NCSM" ; Times: 1
+	Query: "sylvilagus obscurus" ; Times: 15
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;New york&#34; sex:male" ; Times: 1
+	Query: "14345 institutioncode:NCSM" ; Times: 1
+	Query: "institutioncode:FMNH OR USNM genus:lynx hasmedia:0 OR 1" ; Times: 1
+	Query: "copperhead" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon family:Canidae year &gt;= 1890 year &lt;= 1899 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "choeronycteris vntype:specimen stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "Tursiops" ; Times: 2
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "cinereoargenteus specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1890 year &lt;= 1899" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus stateprovince:&#34;florida&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:TOWNSENDII genus:lepus year &gt;= 1976" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 7
+	Query: "Dickerman 4248" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Canis rufus" ; Times: 12
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;new york&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Trichechus" ; Times: 4
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes basisofrecord:preservedspecimen" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; Pituophis melanoleucus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Burrowing owl" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 2
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "badger Michigan" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "institutioncode:FMNH OR USNM genus:lynx hasmedia:0" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "canis rufus" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "choeronycteris stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "Spilogale putorius stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "14346 institutioncode:NCSM" ; Times: 1
+	Query: "pteronotus parnelli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 809 download events in this period)
+Total number of records downloaded: 5491
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 40
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 9
+	Country: France ; Times: 1
+	Country: United States ; Times: 19
+	Country: Taiwan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-09 ; Times: 24
+	Date: 2018-12-12 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-10 ; Times: 11
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 5
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "myotis grisescens alabama" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Spilogale putorius stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Artibeus phaeotis" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+
+
+End of report.
