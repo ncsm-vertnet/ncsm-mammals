@@ -1,0 +1,290 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 2751
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 312
+	Country: Madagascar ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 87
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-26 ; Times: 11
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-14 ; Times: 14
+	Date: 2019-01-15 ; Times: 16
+	Date: 2019-01-30 ; Times: 37
+	Date: 2019-01-17 ; Times: 18
+	Date: 2019-01-10 ; Times: 8
+	Date: 2019-01-11 ; Times: 12
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-02 ; Times: 19
+	Date: 2019-01-29 ; Times: 42
+	Date: 2019-01-28 ; Times: 8
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 8
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-04 ; Times: 4
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-22 ; Times: 14
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-24 ; Times: 5
+	Date: 2019-01-27 ; Times: 8
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-16 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "West Java Species" ; Times: 1
+	Query: "Naemorhedus" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "novemcinctus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "tree shrew" ; Times: 2
+	Query: "(&#34;Dasypus Novemcinctus&#34; &#34;Nine-banded Armadillo&#34;)" ; Times: 4
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "trichechus manatus" ; Times: 2
+	Query: "(&#34;Virginia Opossum&#34;)" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 27
+	Query: "(Carolina masticophis)" ; Times: 3
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "Panthera onca" ; Times: 53
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Nine Banded Armadillo&#34;" ; Times: 1
+	Query: "ncsm mammal" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "&#34;Megaptera novaeangliae&#34;" ; Times: 2
+	Query: "fieldnumber:5989" ; Times: 1
+	Query: "Virginia opossum" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "weasel" ; Times: 2
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "Mule Deer" ; Times: 1
+	Query: "European Bison" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "tarsius" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "&#34;Trichechus manatus&#34;" ; Times: 4
+	Query: "15827" ; Times: 1
+	Query: "&#34;dasypus&#34; &#34;novemcinctus&#34;" ; Times: 1
+	Query: "(&#34;dasypus&#34; &#34;novemcinctus&#34;)" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "specificepithet:seminolus genus:Lasiurus" ; Times: 2
+	Query: "Nine-banded Armadillo" ; Times: 1
+	Query: "(&#34;Virginia Opossum&#34; &#34;Didelphis Virginiana&#34;)" ; Times: 3
+	Query: "Dasypus (dasypus novemcinctus)" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "16408" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "3464" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "genus:myotis collectioncode:Mammals institutioncode:NCSM" ; Times: 1
+	Query: "lemur" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:NCSM" ; Times: 2
+	Query: "&#34;Virginia opossum&#34;" ; Times: 1
+	Query: "(&#34;Nine-banded armadillo&#34;)" ; Times: 1
+	Query: "Nine banded Armadillo dasypus novemcinctus" ; Times: 2
+	Query: "myocastor coypus" ; Times: 1
+	Query: "stenella coeruleoalba" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:elegans genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "virginia opossum" ; Times: 3
+	Query: "lutra lutra" ; Times: 3
+	Query: "specificepithet:striatus genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34; &#34;Virginia Opossum&#34;" ; Times: 2
+	Query: "sylvilagus obscurus" ; Times: 4
+	Query: "ringtail" ; Times: 1
+	Query: "marine mammals" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "&#34;Equus caballus&#34;" ; Times: 1
+	Query: "Giraffa" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "west indian manatee" ; Times: 1
+	Query: "specificepithet:lateralis genus:citellus" ; Times: 1
+	Query: "dasypus and nine banded armadillo" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "order:Rodentia collectioncode:Mammals institutioncode:NCSM" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "armadillo" ; Times: 3
+	Query: "taxidea taxus" ; Times: 1
+	Query: "&#34;alces americanus&#34;" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 13
+	Query: "pinniped" ; Times: 2
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 3
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:NCSM" ; Times: 2
+	Query: "copperhead data" ; Times: 2
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34;" ; Times: 1
+	Query: "Mole kingsnake" ; Times: 1
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 3
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "Prunus" ; Times: 1
+	Query: "Virginia Opossum Didelphis virginiana" ; Times: 3
+	Query: "alces americanus" ; Times: 2
+	Query: "&#34;cave&#34; county:&#34;giles&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Dasypodidae" ; Times: 3
+	Query: "(didelphis and virginia opossum)" ; Times: 1
+	Query: "(Dasypus novemcinctus)" ; Times: 1
+	Query: "collectioncode:Mammals institutioncode:NCSM" ; Times: 1
+	Query: "(Giraffa camelopardalis)" ; Times: 1
+	Query: "(primate)" ; Times: 1
+	Query: "right whale" ; Times: 4
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "Coachwhip" ; Times: 2
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 8
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 13
+	Query: "(&#34;Nine-banded armadillo&#34; &#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "flying squirrel" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 40
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "didelphis virginia" ; Times: 4
+	Query: "Copperhead Data" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "DOT-285" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 1
+	Query: "fieldnumber:10760" ; Times: 1
+	Query: "institutioncode:NCSM hassex:1 haslength:1" ; Times: 2
+	Query: "specificepithet:speciosus genus:tamias institutioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 962 download events in this period)
+Total number of records downloaded: 409
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 30
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-30 ; Times: 4
+	Date: 2019-01-31 ; Times: 7
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "bhutan" ; Times: 1
+	Query: "specificepithet:elegans genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Kogia sima" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:townsendii genus:Plecotus mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (NOT pennanti)" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+	Query: "specificepithet:subflavus genus:Perimyotis mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+
+
+End of report.
