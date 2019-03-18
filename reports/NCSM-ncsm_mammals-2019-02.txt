@@ -1,0 +1,223 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 259
+Number of records retrieved in searches: 3134
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 61
+	Country: United States ; Times: 164
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 4
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-10 ; Times: 4
+	Date: 2019-02-13 ; Times: 29
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-15 ; Times: 6
+	Date: 2019-02-14 ; Times: 11
+	Date: 2019-02-17 ; Times: 5
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-02 ; Times: 13
+	Date: 2019-02-03 ; Times: 6
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-20 ; Times: 7
+	Date: 2019-02-07 ; Times: 13
+	Date: 2019-02-04 ; Times: 5
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 11
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 49
+	Date: 2019-02-27 ; Times: 52
+	Date: 2019-02-06 ; Times: 6
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Legge" ; Times: 1
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "american Pika" ; Times: 3
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "humpback" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Kentucky&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:chrysopygus genus:Rhynchocyon" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 3
+	Query: "specificepithet:poeyi genus:Phyllonycteris" ; Times: 1
+	Query: "fox squirrel" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Sylvilagus TRANSITIONALIS west virginia" ; Times: 1
+	Query: "catalognumber:12233 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "sylvilagus floridanus virginia" ; Times: 1
+	Query: "american pika" ; Times: 26
+	Query: "rat skulls" ; Times: 1
+	Query: "monodon" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 5
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 6
+	Query: "Blarina" ; Times: 5
+	Query: "specificepithet:difficilis genus:Peromyscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Monroe&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 24
+	Query: "17499" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "specificepithet:vison genus:neovison stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 6
+	Query: "institutioncode:NCSM lengthtype:total length haslength:1" ; Times: 1
+	Query: "NCSM 11626" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "American pika" ; Times: 1
+	Query: "sylvilagus transitionalis virginia" ; Times: 1
+	Query: "Lasiurus Seminolus" ; Times: 4
+	Query: "pika" ; Times: 2
+	Query: "american mink" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "Barn Owl" ; Times: 2
+	Query: "american water shrew" ; Times: 1
+	Query: "myocastor coypus" ; Times: 7
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 6
+	Query: "Sylvilagus obscurus" ; Times: 2
+	Query: "NCSM 3027" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "lutra lutra" ; Times: 4
+	Query: "Sylvilagus transitionalis west virginia" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "myotis leibii &#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:nivalis genus:leptonycteris stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "American Pika" ; Times: 3
+	Query: "sylvilagus obscurus west virginia" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "Pika" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "Kerodon" ; Times: 2
+	Query: "Sylvilagus obscurus west virginia" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 2018 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;american pika&#34;" ; Times: 1
+	Query: "north haven class:mammalia stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:cooperi genus:synaptomys stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pituophis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:vison genus:neovison stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "genus:Trichechus class:Mammalia" ; Times: 2
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "san francisquito county:&#34;los angeles&#34;" ; Times: 2
+	Query: "Lasiurus Kentucky" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "Trichechus" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2018 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "sylvilagus obscurus &#34;west virginia&#34;" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "monoceros" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 1
+	Query: "Stenella frontalis mappable:1" ; Times: 6
+	Query: "Kogia sima mappable:1" ; Times: 6
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "Dasypus" ; Times: 3
+	Query: "Sorex dispar" ; Times: 1
+	Query: "Chiroptera Monroe County" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "NCSM-16814" ; Times: 2
+	Query: "simus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 6
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:NCSM" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "Sylvilagus West Virginia institutioncode:NCSM" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1227 download events in this period)
+Total number of records downloaded: 210
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 14
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 10
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Neotoma albigula vntype:specimen" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:NCSM" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "specificepithet:vison genus:neovison stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+
+
+End of report.
