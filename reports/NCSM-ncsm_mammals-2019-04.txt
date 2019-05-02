@@ -1,0 +1,287 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 1626
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 29
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 147
+	Country: Paraguay ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 13
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-05 ; Times: 3
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 4
+	Date: 2019-04-10 ; Times: 12
+	Date: 2019-04-17 ; Times: 11
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 21
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-24 ; Times: 13
+	Date: 2019-04-03 ; Times: 12
+	Date: 2019-04-22 ; Times: 17
+	Date: 2019-04-23 ; Times: 14
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 4
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 4
+	Date: 2019-04-02 ; Times: 25
+	Date: 2019-04-25 ; Times: 13
+	Date: 2019-04-28 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 15
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis septentrionalis stateprovince:&#34;South Dakota&#34;" ; Times: 3
+	Query: "Pinus taeda mappable:1" ; Times: 1
+	Query: "Micronycteris microtis mappable:1" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "genus:Spilogale institutioncode:NCSM" ; Times: 1
+	Query: "mongoose" ; Times: 1
+	Query: "Mysticeti" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 5
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Myotis septentrionalis stateprovince:&#34;South Dakota&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:poeyi genus:Phyllonycteris" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "Sciurus carolinensis New York" ; Times: 1
+	Query: "Alces americanus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "genus:amblonyx specificepithet:cinereus" ; Times: 4
+	Query: "vntype:specimen genus:Geomys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Vampyrodes caraccioli mappable:1" ; Times: 3
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "catalognumber:9823 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:seminolus genus:lasiurus" ; Times: 1
+	Query: "Susan Sferra" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "peromyscus peanut butter" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "Myodes californicus" ; Times: 2
+	Query: "Molossops" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "Pinus strobus mappable:1" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:14967 institutioncode:NCSM" ; Times: 2
+	Query: "catalognumber:9523 institutioncode:NCSM" ; Times: 1
+	Query: "globicephala macrorhynchus" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "NCSM-6096" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 3
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:17043 institutioncode:NCSM" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;canada&#34;" ; Times: 1
+	Query: "pitfalls" ; Times: 1
+	Query: "genus:Mephitis institutioncode:NCSM" ; Times: 1
+	Query: "parnell feature" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "american mink" ; Times: 3
+	Query: "lemur" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "Kogia breviceps" ; Times: 1
+	Query: "globicephala macrorhynchus north carolina" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "red wolf" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "Myotis septentrionalis stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "&#34;seep&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "specificepithet:mexicana genus:Neotoma county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Trachops cirrhosus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "Carollia castanea" ; Times: 3
+	Query: "Western harvest mouse" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 8
+	Query: "neovison vison" ; Times: 1
+	Query: "snowshoe hare" ; Times: 5
+	Query: "lutra" ; Times: 1
+	Query: "NCSM 11047" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "catalognumber:12913 institutioncode:NCSM" ; Times: 1
+	Query: "Striped skunk" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1654 institutioncode:NCSM" ; Times: 1
+	Query: "vagrant shrew" ; Times: 6
+	Query: "Choeronycteris mexicana" ; Times: 14
+	Query: "mustela nigripes" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "Mustela frenata" ; Times: 8
+	Query: "golden-mantled ground squirrel" ; Times: 3
+	Query: "catalognumber:14969 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Grass mountain" ; Times: 2
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "Lonicera japonica mappable:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;North Carolina&#34;" ; Times: 5
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "Micronycteris hirsuta mappable:1" ; Times: 3
+	Query: "Myotis keenii stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "western harvest mouse" ; Times: 3
+	Query: "catalognumber:225 institutioncode:NCSM" ; Times: 1
+	Query: "Micronycteris megalotis mappable:1" ; Times: 3
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1263 download events in this period)
+Total number of records downloaded: 2746
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 78
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 13
+	Date: 2019-04-02 ; Times: 35
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 6
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; year &gt;= 1880 year &lt;= 1950" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "&#34;seep&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "vntype:specimen genus:Geomys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Myodes californicus" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
