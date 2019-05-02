@@ -1,0 +1,202 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 3764
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 177
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-27 ; Times: 35
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-24 ; Times: 2
+	Date: 2019-03-23 ; Times: 5
+	Date: 2019-03-08 ; Times: 18
+	Date: 2019-03-21 ; Times: 9
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 8
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 8
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-29 ; Times: 14
+	Date: 2019-03-22 ; Times: 8
+	Date: 2019-03-15 ; Times: 5
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-03 ; Times: 24
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-19 ; Times: 9
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-28 ; Times: 5
+	Date: 2019-03-12 ; Times: 3
+	Date: 2019-03-13 ; Times: 9
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;kentucky&#34; institutioncode:NCSM" ; Times: 3
+	Query: "idigbio mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;florida&#34; institutioncode:NCSM" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;virginia&#34; institutioncode:NCSM" ; Times: 2
+	Query: "Ringtail" ; Times: 3
+	Query: "Kenya vntype:specimen specificepithet:pictus family:Canidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;texas&#34; institutioncode:NCSM" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "catalognumber:13746 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;new jersey&#34; institutioncode:NCSM" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1930 year &lt;= 1950" ; Times: 2
+	Query: "parnell" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Blarina" ; Times: 2
+	Query: "vampire" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "Eumops underwood" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "Cynopterus horsfieldii" ; Times: 3
+	Query: "coachwhip" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;wisconsin&#34; institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "smoky shrew" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "south toe river" ; Times: 3
+	Query: "Copperhead Data" ; Times: 3
+	Query: "Reithrodontomys fulvescens" ; Times: 3
+	Query: "15384" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;delaware&#34; institutioncode:NCSM" ; Times: 2
+	Query: "Parnell Feature 1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;georgia&#34; institutioncode:NCSM" ; Times: 2
+	Query: "ocelot" ; Times: 3
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "south toe river north carolina" ; Times: 5
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "specificepithet:borealis genus:lasiurus institutioncode:NCSM" ; Times: 4
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;north carolina&#34; institutioncode:NCSM" ; Times: 2
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus)" ; Times: 1
+	Query: "90085" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;south carolina&#34; institutioncode:NCSM" ; Times: 2
+	Query: "neovison vison" ; Times: 14
+	Query: "vntype:specimen (American water shrew)" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 8
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;pennsylvania&#34; institutioncode:NCSM" ; Times: 2
+	Query: "North Carolina South Toe" ; Times: 1
+	Query: "Nycticeius" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+	Query: "Mole kingsnake" ; Times: 2
+	Query: "gray wolf" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 3
+	Query: "Poison Ivy" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Pickering" ; Times: 1
+	Query: "South Toe River" ; Times: 1
+	Query: "Pizza" ; Times: 1
+	Query: "genus:Nycticeius" ; Times: 1
+	Query: "mus musculus 322" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;new york&#34; institutioncode:NCSM" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 3
+	Query: "cheetah" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 7
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "Neovison" ; Times: 4
+	Query: "northern pike" ; Times: 1
+	Query: "American water shrew vntype:specimen (American water shrew)" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 8
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;west virginia&#34; institutioncode:NCSM" ; Times: 2
+	Query: "Canis rufus" ; Times: 1
+	Query: "harvest mouse" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;connecticut&#34; institutioncode:NCSM" ; Times: 2
+	Query: "AMERICAN PIKA" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;maryland&#34; institutioncode:NCSM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1281 download events in this period)
+Total number of records downloaded: 1608
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: United Kingdom ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-08 ; Times: 8
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "North Carolina South Toe" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Tupaia glis" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "genus:Meles" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "Eumops underwood" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Cynopterus horsfieldii" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;north carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "Copperhead Data" ; Times: 2
+	Query: "specificepithet:vison" ; Times: 1
+
+
+End of report.
