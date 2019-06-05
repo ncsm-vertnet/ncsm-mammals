@@ -1,0 +1,205 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 1004
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 93
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 6
+	Date: 2019-05-08 ; Times: 12
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-06 ; Times: 21
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-02 ; Times: 4
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-25 ; Times: 17
+	Date: 2019-05-24 ; Times: 3
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 5
+	Date: 2019-05-23 ; Times: 8
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-29 ; Times: 6
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 6
+	Date: 2019-05-15 ; Times: 4
+	Date: 2019-05-16 ; Times: 3
+	Date: 2019-05-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "North Haven order:Carnivora stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "Naemorhedus" ; Times: 2
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Micronycteris microtis mappable:1" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "sorex hoyi" ; Times: 4
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "naemorhedus" ; Times: 1
+	Query: "Scapanus latimanus" ; Times: 1
+	Query: "Mountain Lake Biological Station" ; Times: 1
+	Query: "trichechus" ; Times: 7
+	Query: "sorex palustris" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Pecari tajacu Peru" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Neotamias amoenus" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 7
+	Query: "17485" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "Short tailed snake" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "virginia opossum" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "great gull island class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "eastern spotted skunk florida" ; Times: 1
+	Query: "order:soricomorpha county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "sciurus nayaritensis" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "western red-backed vole" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 1
+	Query: "Urogale" ; Times: 5
+	Query: "coachwhip" ; Times: 1
+	Query: "Sylvilagus floridanus west virginia" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "class:Mammalia pallid bat" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 1
+	Query: "copperhead data" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34; (caswell)" ; Times: 1
+	Query: "eptisicus fuscus" ; Times: 2
+	Query: "peromyscus leucopus stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "Capybara" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:Kerodon" ; Times: 2
+	Query: "lutra lutra" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34;" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "western red backed vole" ; Times: 2
+	Query: "specificepithet:coypus continent:america" ; Times: 1
+	Query: "genus:myocastor" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "Kerodon" ; Times: 1
+	Query: "goral" ; Times: 1
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "gray wolf" ; Times: 1
+	Query: "red tree vole" ; Times: 2
+	Query: "northern yellow bat" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 2
+	Query: "right whale" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "Vampyrodes caraccioli mappable:1" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "genital" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Micronycteris hirsuta mappable:1" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "Right Whale" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 940 download events in this period)
+Total number of records downloaded: 335
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "eptisicus fuscus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+
+
+End of report.
