@@ -1,0 +1,380 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 321
+Number of records retrieved in searches: 3504
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Peru ; Times: 2
+	Country: Algeria ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 286
+	Country: Chile ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-25 ; Times: 3
+	Date: 2019-06-08 ; Times: 10
+	Date: 2019-06-27 ; Times: 3
+	Date: 2019-06-06 ; Times: 12
+	Date: 2019-06-07 ; Times: 24
+	Date: 2019-06-04 ; Times: 29
+	Date: 2019-06-05 ; Times: 17
+	Date: 2019-06-02 ; Times: 4
+	Date: 2019-06-03 ; Times: 8
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-28 ; Times: 3
+	Date: 2019-06-29 ; Times: 2
+	Date: 2019-06-19 ; Times: 2
+	Date: 2019-06-18 ; Times: 9
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-15 ; Times: 2
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 3
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 95
+	Date: 2019-06-10 ; Times: 84
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura specificepithet:cristata" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 3
+	Query: "genus:Lasiurus specificepithet:borealis" ; Times: 1
+	Query: "genus:Phyllonycteris specificepithet:poeyi" ; Times: 1
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "Red fox continent:North America (red fox)" ; Times: 1
+	Query: "genus:Lutra specificepithet:lutra" ; Times: 2
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus" ; Times: 1
+	Query: "mongoose" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 1
+	Query: "Animal teeth" ; Times: 1
+	Query: "genus:Megaptera specificepithet:novaeangliae" ; Times: 2
+	Query: "catalognumber:14696 institutioncode:NCSM" ; Times: 1
+	Query: "genus:Podomys specificepithet:floridanus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 1
+	Query: "Mountain Lake Biological Station" ; Times: 2
+	Query: "genus:Uroderma specificepithet:bilobatum" ; Times: 1
+	Query: "catalognumber:19425 institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 1
+	Query: "genus:Geomys specificepithet:bursarius" ; Times: 1
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "genus:Sciurus specificepithet:granatensis" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Lycaon specificepithet:pictus" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 3
+	Query: "red squirrel" ; Times: 2
+	Query: "fieldnumber:2342 catalognumber:2342" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "Right whale" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "genus:Micromys specificepithet:minutus" ; Times: 2
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 2
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "genus:Phoca specificepithet:vitulina" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus" ; Times: 1
+	Query: "genus:Canis specificepithet:sp." ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "genus:Nycticeius specificepithet:humeralis" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 1
+	Query: "grey squirrel" ; Times: 3
+	Query: "genus:Lemmus specificepithet:trimucronatus" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 1
+	Query: "little black river" ; Times: 2
+	Query: "genus:Mustela specificepithet:putorius" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "genus:choeronycteris stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "river otter" ; Times: 2
+	Query: "genus:Lepus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 3
+	Query: "genus:Myotis specificepithet:austroriparius" ; Times: 1
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 1
+	Query: "genus:Tarsius specificepithet:syrichta" ; Times: 2
+	Query: "copperhead snake" ; Times: 4
+	Query: "genus:Presbytis specificepithet:comata" ; Times: 1
+	Query: "genus:Hylobates specificepithet:agilis" ; Times: 2
+	Query: "genus:Mustela specificepithet:erminea" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana" ; Times: 1
+	Query: "genus:Pithecia specificepithet:pithecia" ; Times: 2
+	Query: "Pipistrellus p" ; Times: 2
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 2
+	Query: "white tail deer" ; Times: 3
+	Query: "genus:Baiomys specificepithet:taylori" ; Times: 2
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 1
+	Query: "genus:Vampyrodes specificepithet:caraccioli" ; Times: 1
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "Kerodon rupestris" ; Times: 10
+	Query: "Red Wolf" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:douglasii" ; Times: 1
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "Long tailed weasel" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 1
+	Query: "genus:Tamias specificepithet:striatus" ; Times: 1
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 1
+	Query: "genus:Papio specificepithet:sp." ; Times: 3
+	Query: "genus:Micronycteris specificepithet:hirsuta" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis" ; Times: 1
+	Query: "genus:Zapus specificepithet:hudsonius" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "genus:Lutra specificepithet:canadensis" ; Times: 1
+	Query: "corn snake" ; Times: 2
+	Query: "order:Cingulata" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Mustela specificepithet:nivalis" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "smith mountain stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "gray wolf" ; Times: 2
+	Query: "genus:Chiroderma specificepithet:villosum" ; Times: 1
+	Query: "genus:Cheirogaleus specificepithet:medius" ; Times: 2
+	Query: "white tailed deer" ; Times: 4
+	Query: "bobcat" ; Times: 3
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "genus:Petrodromus specificepithet:tetradactylus" ; Times: 2
+	Query: "dusky shrew" ; Times: 1
+	Query: "genus:Perimyotis specificepithet:subflavus" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:parnellii" ; Times: 1
+	Query: "genus:Macropus specificepithet:eugenii" ; Times: 2
+	Query: "Myocastor coypus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Rattus specificepithet:norvegicus" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:bachmani" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "genus:Stenella specificepithet:attenuata" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:gymnonotus" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "genus:Neovison specificepithet:vison" ; Times: 1
+	Query: "genus:Ondatra specificepithet:zibethicus" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 1
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 1
+	Query: "WAM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "genus:Meles specificepithet:meles" ; Times: 1
+	Query: "Pika" ; Times: 4
+	Query: "pangolin" ; Times: 1
+	Query: "genus:Glossophaga specificepithet:commissarisi" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "genus:Pteropus specificepithet:vampyrus" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "genus:Ursus specificepithet:maritimus" ; Times: 1
+	Query: "pika" ; Times: 11
+	Query: "parnell" ; Times: 2
+	Query: "specificepithet:physalus" ; Times: 2
+	Query: "genus:Leptonycteris specificepithet:yerbabuenae" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "genus:Globicephala specificepithet:macrorhynchus" ; Times: 2
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Herpestes specificepithet:javanicus" ; Times: 1
+	Query: "genus:Odocoileus specificepithet:virginianus" ; Times: 1
+	Query: "mammalian" ; Times: 1
+	Query: "15478 class:mammalia" ; Times: 2
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 2
+	Query: "American black bear" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 6
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "genus:Micronycteris specificepithet:megalotis" ; Times: 1
+	Query: "genus:Cyclopes specificepithet:didactylus" ; Times: 1
+	Query: "genus:Neotoma specificepithet:mexicana" ; Times: 1
+	Query: "genus:Kogia specificepithet:breviceps" ; Times: 2
+	Query: "black tailed deer" ; Times: 1
+	Query: "rabbits" ; Times: 3
+	Query: "bob cat" ; Times: 1
+	Query: "genus:Manis specificepithet:javanica" ; Times: 1
+	Query: "genus:Molossus specificepithet:molossus" ; Times: 1
+	Query: "dolphins" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:macrotis" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:difficilis" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "genus:Loxodonta specificepithet:africana" ; Times: 1
+	Query: "genus:Ochrotomys specificepithet:nuttalli" ; Times: 1
+	Query: "genus:Eumops specificepithet:underwoodi" ; Times: 1
+	Query: "genus:Neotoma specificepithet:cinerea" ; Times: 2
+	Query: "black bear" ; Times: 3
+	Query: "genus:Peromyscus specificepithet:polionotus" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Urogale specificepithet:everetti" ; Times: 2
+	Query: "genus:Neurotrichus specificepithet:gibbsii" ; Times: 1
+	Query: "vampire bat" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "field vole" ; Times: 1
+	Query: "genus:Myotis specificepithet:sodalis" ; Times: 1
+	Query: "rodentia measurments" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "capybara" ; Times: 1
+	Query: "genus:Arctictis specificepithet:binturong" ; Times: 2
+	Query: "Great dismal swamp" ; Times: 1
+	Query: "genus:Martes specificepithet:pennanti" ; Times: 1
+	Query: "genus:Trachops specificepithet:cirrhosus" ; Times: 1
+	Query: "genus:Cynopterus specificepithet:horsfieldii" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Myotis specificepithet:sp." ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "genus:Monodelphis specificepithet:domestica " ; Times: 2
+	Query: "genus:Myotis specificepithet:subulatus" ; Times: 1
+	Query: "flying squirrel" ; Times: 5
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 2
+	Query: "genus:Desmodus specificepithet:rotundus" ; Times: 1
+	Query: "Mormopterus kalinowskii" ; Times: 1
+	Query: "16616" ; Times: 1
+	Query: "Red fox continent:North America" ; Times: 1
+	Query: "forearm family:sciuridae" ; Times: 1
+	Query: "genus:Noctilio specificepithet:albiventris" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "fieldnumber:3592" ; Times: 1
+	Query: "genus:Balaenoptera specificepithet:acutorostrata" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "narwhal" ; Times: 2
+	Query: "genus:Plecotus specificepithet:auritus" ; Times: 1
+	Query: "skunk" ; Times: 2
+	Query: "genus:Nandinia specificepithet:binotata" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gossypinus" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 1182 download events in this period)
+Total number of records downloaded: 4833
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 7
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-06 ; Times: 23
+	Date: 2019-06-07 ; Times: 23
+	Date: 2019-06-04 ; Times: 32
+	Date: 2019-06-05 ; Times: 13
+	Date: 2019-06-11 ; Times: 3
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-13 ; Times: 2
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-26 ; Times: 4
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corn snake" ; Times: 2
+	Query: "bison" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "black tailed deer" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "grey squirrel" ; Times: 4
+	Query: "moose" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 2
+	Query: "beaver" ; Times: 8
+	Query: "bobcat" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "jackal" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "dusky shrew" ; Times: 1
+	Query: "raccoon continent:north america" ; Times: 1
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "vampire bat" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;New MExico&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "field vole" ; Times: 2
+	Query: "Pika" ; Times: 4
+	Query: "red fox" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "order:Cingulata" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+	Query: "north american marten" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1976 year &lt;= 1985" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1946 year &lt;= 1955" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "dolphins" ; Times: 1
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "pika" ; Times: 13
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "BEAVER" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Mormopterus kalinowskii" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+
+
+End of report.
