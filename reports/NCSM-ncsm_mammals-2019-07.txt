@@ -1,0 +1,222 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1002
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 134
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Luxembourg ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 18
+	Date: 2019-07-08 ; Times: 28
+	Date: 2019-07-12 ; Times: 9
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 6
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-29 ; Times: 4
+	Date: 2019-07-23 ; Times: 5
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-21 ; Times: 7
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 15
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-28 ; Times: 7
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:choeronycteris order:chiroptera class:mammalia" ; Times: 1
+	Query: "beane institutioncode:NCSM" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "eastern gray squirrel" ; Times: 1
+	Query: "maple tree" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eubalaena" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 1
+	Query: "ncsm bryan stuart" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 3
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "coypu" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus class:mammalia county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 2
+	Query: "little brown bat" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "fieldnumber:16133" ; Times: 1
+	Query: "parnell" ; Times: 7
+	Query: "genus:Chaetodipus specificepithet:intermedius" ; Times: 1
+	Query: "genus:sorex stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "(beane) institutioncode:NCSM" ; Times: 1
+	Query: "class:MAMMALIA locality:WESTFIELD" ; Times: 2
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "fieldnumber:16030" ; Times: 2
+	Query: "coypus" ; Times: 2
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "genus:rattus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:hastatus" ; Times: 1
+	Query: "genus:Papio specificepithet:sp." ; Times: 1
+	Query: "DSL" ; Times: 1
+	Query: "bryan stuart institutioncode:NCSM" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 2
+	Query: "genus:microtus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Skulls" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 2
+	Query: "genus:peromyscus county:&#34;BREVARD&#34;" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "monodon monoceros &#34;united states&#34;" ; Times: 1
+	Query: "Eubalaena" ; Times: 1
+	Query: "genus:Citellus specificepithet:variegatus" ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "catalognumber:12688 institutioncode:NCSM" ; Times: 3
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "megaptera" ; Times: 1
+	Query: "genus:Podomys" ; Times: 1
+	Query: "genus:Stenella specificepithet:attenuata" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Goldenrod" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "genus:choeronycteris order:chiroptera class:mammalia country:&#34;united states&#34;" ; Times: 1
+	Query: "stuart institutioncode:NCSM" ; Times: 1
+	Query: "genus:eutamias class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 2
+	Query: "genus:Antrozous" ; Times: 1
+	Query: "Star Landing" ; Times: 1
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "Felis lynx" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "A947" ; Times: 1
+	Query: "genus:citellus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Desmodus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Felis lynx canadensis" ; Times: 3
+	Query: "(stuart) institutioncode:NCSM" ; Times: 2
+	Query: "American Mink" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "order:lagomorpha class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 3
+	Query: "specificepithet:carolinensis class:MAMMALIA stateprovince:&#34;new york&#34; year &gt;= 1974" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "fieldnumber:11838" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "locality:PALM BAY county:&#34;BREVARD&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "country:&#34;United States&#34; panthera tigris" ; Times: 1
+	Query: "specificepithet:BREVICAUDA stateprovince:&#34;VIRGINIA&#34;" ; Times: 2
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 985 download events in this period)
+Total number of records downloaded: 852
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 8
+	Country: Ecuador ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-25 ; Times: 9
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-20 ; Times: 5
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 5
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1965" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
