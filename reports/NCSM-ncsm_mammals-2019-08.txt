@@ -1,0 +1,259 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 874
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 145
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 12
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-03 ; Times: 3
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 17
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-07 ; Times: 15
+	Date: 2019-08-08 ; Times: 10
+	Date: 2019-08-09 ; Times: 6
+	Date: 2019-08-24 ; Times: 3
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-20 ; Times: 19
+	Date: 2019-08-21 ; Times: 5
+	Date: 2019-08-17 ; Times: 2
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 25
+	Date: 2019-08-14 ; Times: 21
+	Date: 2019-08-13 ; Times: 10
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-30 ; Times: 11
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-26 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "acutorostrata" ; Times: 2
+	Query: "Balaenoptera acutorostrata" ; Times: 4
+	Query: "fieldnumber:1380" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 6
+	Query: "Eschrichtius robustus" ; Times: 16
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "Felis pardalis" ; Times: 5
+	Query: "choeronycteris mexicana" ; Times: 2
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Ornithorhynchus anatinus mappable:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "geomys bursarius wisconsin" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "red squirrel" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "olivaceous" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 15
+	Query: "stenella coeruleoalba country:&#34;United States&#34;" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "kogia breviceps" ; Times: 2
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "cavirostris" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 2
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "canis coyote" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "&#34;cave&#34; stateprovince:&#34;indiana&#34; (&#34;jefferson&#34; OR &#34;jennings&#34; OR &#34;ripley&#34;)" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Quercus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "tahr" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:microtus" ; Times: 1
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 7
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:sanborni genus:Leptonycteris" ; Times: 2
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "Kogia sima" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Felis silvestris catus" ; Times: 1
+	Query: "catalognumber:3263 collectioncode:NCSM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "class:Mammalia fieldnumber:1380" ; Times: 1
+	Query: "specificepithet:nayaritensis genus:Sciurus" ; Times: 1
+	Query: "killer whale" ; Times: 2
+	Query: "douglas squirrel" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:NCSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Felis lynx" ; Times: 11
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Boar" ; Times: 1
+	Query: "lemur" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "Felis lynx canadensis" ; Times: 12
+	Query: "Pika" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "Dama dama" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 6
+	Query: "specificepithet:jubatus genus:Eumetopias" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new Jersey&#34;" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "Quercus palustris" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1034 download events in this period)
+Total number of records downloaded: 2835
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 21
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 55
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-19 ; Times: 9
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-23 ; Times: 5
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-15 ; Times: 7
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 7
+	Date: 2019-08-29 ; Times: 10
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 9
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Potos" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventris genus:Noctilio AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "artibeus watsoni" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:sorex stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "eptesicus fuscus" ; Times: 2
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "locality:Palawan country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "chiroderma villosum" ; Times: 1
+	Query: "micronycteris microtis" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Procyon" ; Times: 1
+
+
+End of report.
