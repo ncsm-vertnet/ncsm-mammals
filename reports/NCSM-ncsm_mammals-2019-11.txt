@@ -1,0 +1,254 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 4427
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 200
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 48
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 7
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 11
+	Date: 2019-11-14 ; Times: 5
+	Date: 2019-11-16 ; Times: 18
+	Date: 2019-11-11 ; Times: 11
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-28 ; Times: 7
+	Date: 2019-11-20 ; Times: 6
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-23 ; Times: 4
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-08 ; Times: 20
+	Date: 2019-11-09 ; Times: 28
+	Date: 2019-11-06 ; Times: 17
+	Date: 2019-11-07 ; Times: 75
+	Date: 2019-11-04 ; Times: 8
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 33
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "jird" ; Times: 1
+	Query: "Ovis aries" ; Times: 2
+	Query: "West Indian manatee 1984" ; Times: 5
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "specificepithet:obscurus genus:sylvilagus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "vison dakota" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "West Indian manatee 2006" ; Times: 5
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Lepus americanus maine" ; Times: 1
+	Query: "peccary" ; Times: 1
+	Query: "locality:new hanover" ; Times: 1
+	Query: "pocketed free-tailed bat" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Nebraska&#34; year &gt;= 1970" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "cooper center" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Dama dama" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myotis septentrionalis 1998" ; Times: 4
+	Query: "specificepithet:bottae genus:thomomys stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Zalophus wollebaeki" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 2
+	Query: "Baiomys taylori" ; Times: 2
+	Query: "West Indian manatee 1990" ; Times: 5
+	Query: "red squirrel" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "glaucomys sabrinus north carolina" ; Times: 2
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Myotis septentrionalis 1980" ; Times: 4
+	Query: "Myotis septentrionalis 1981" ; Times: 4
+	Query: "16053" ; Times: 1
+	Query: "Myotis septentrionalis 1987" ; Times: 4
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:subflavus genus:perimyotis year &gt;= 2000 year &lt;= 2006" ; Times: 1
+	Query: "Leopardus pardalis 1986" ; Times: 4
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "West Indian manatee 1976" ; Times: 5
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Sciurus granatensis" ; Times: 2
+	Query: "ticks" ; Times: 2
+	Query: "Lynx canadensis 2017" ; Times: 3
+	Query: "red fox" ; Times: 1
+	Query: "woodchuck" ; Times: 1
+	Query: "cwd" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "coypus" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Thrichomys apereoides" ; Times: 1
+	Query: "Silver-haired bat" ; Times: 2
+	Query: "specificepithet:lucifugus genus:myotis month &gt;= 11 month &lt;= 12" ; Times: 2
+	Query: "Myotis septentrionalis 1977" ; Times: 4
+	Query: "genus:Rattus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "specificepithet:fortidens genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Macropus eugenii" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "american mink" ; Times: 1
+	Query: "big free-tailed bat" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "18905" ; Times: 3
+	Query: "Acer" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "specificepithet:subflavus genus:perimyotis" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "vntype:specimen order:Chiroptera institutioncode:NCSM basisofrecord:PreservedSpecimen" ; Times: 12
+	Query: "bat ray" ; Times: 2
+	Query: "specificepithet:fuscus genus:eptesicus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "collared peccary" ; Times: 1
+	Query: "West Indian manatee 2016" ; Times: 5
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "chronic wasting disease" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 3
+	Query: "Chaetodipus nelsoni" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis year &gt;= 2009 year &lt;= 2019" ; Times: 1
+	Query: "West Indian manatee 1983" ; Times: 5
+	Query: "West Indian manatee 1982" ; Times: 5
+	Query: "West Indian manatee 1981" ; Times: 5
+	Query: "armadillo" ; Times: 2
+	Query: "West Indian manatee 1986" ; Times: 5
+	Query: "disease vntype:specimen year &gt;= 1800 year &lt;= 2000" ; Times: 1
+	Query: "Alces alces" ; Times: 4
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 4
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "mammals and ava" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "Myotis sodalis 2017" ; Times: 4
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 4
+	Query: "Myotis septentrionalis 2016" ; Times: 4
+	Query: "Myotis septentrionalis 2015" ; Times: 3
+	Query: "16051" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "myotis lucifigus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "vntype:specimen specificepithet:obscurus genus:sylvilagus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "Fox squirrel" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "bottlenose dolphin" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "north american river otter" ; Times: 2
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Myotis sodalis 1979" ; Times: 4
+	Query: "Eumetopias jubatus" ; Times: 1
+	Query: "Myotis septentrionalis 1974" ; Times: 4
+	Query: "specificepithet:obscurus genus:sylvilagus stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Capra ibex" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "West Indian manatee 2017" ; Times: 5
+	Query: "blue whale" ; Times: 1
+	Query: "vntype:specimen specificepithet:obscurus genus:sylvilagus stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "databases" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "narwhal" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1367 download events in this period)
+Total number of records downloaded: 2366
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 7
+	Date: 2019-11-15 ; Times: 7
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chaetodipus locality:Tucson" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "class:mammalia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "glaucomys sabrinus north carolina" ; Times: 2
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1939 year &lt;= 1970" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "myotis fortidens" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
