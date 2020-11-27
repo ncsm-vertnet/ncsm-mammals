@@ -1,0 +1,274 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 1330
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 160
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 4
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 10
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-02 ; Times: 16
+	Date: 2020-01-01 ; Times: 8
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 15
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 10
+	Date: 2020-01-26 ; Times: 8
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 4
+	Date: 2020-01-14 ; Times: 6
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 7
+	Date: 2020-01-17 ; Times: 7
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 10
+	Date: 2020-01-13 ; Times: 9
+	Date: 2020-01-31 ; Times: 17
+	Date: 2020-01-30 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "snake vntype:specimen hassex:1 haslength:1" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "13731" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "castanea Carollia" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "genus:Corynorhinus institutioncode:NCSM" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 4
+	Query: "(&#34;canis rufus&#34;)" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phoca vitulina vntype:specimen" ; Times: 1
+	Query: "microtus pennsylvanicus kentucky" ; Times: 1
+	Query: "White tailed deer" ; Times: 1
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:NCSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1909 institutioncode:NCSM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 6
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "gbifdatasetid:ea9f5b0b-ad97-45ea-935a-ba2784c80cbb" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 3
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;Rockland&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Maine&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 3
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "vntype:specimen order:Chiroptera catalognumber:3929" ; Times: 1
+	Query: "(movement)" ; Times: 1
+	Query: "sea lion" ; Times: 1
+	Query: "county:&#34;Carter&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "genus:Rattus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "kerodon rupestris" ; Times: 1
+	Query: "horsfieldii" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "&#34;SYNAPTOMYS COOPERI&#34; vntype:specimen stateprovince:&#34;MAINE&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bat ray" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "bobcat" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 7
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 7
+	Query: "family:Phyllostomidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desert Cottontail" ; Times: 2
+	Query: "order:Rodentia county:&#34;Polk&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "&#34;Microtus pinetorum&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Rodentia county:&#34;Polk&#34; OR &#34;Graham&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:javanica genus:Manis" ; Times: 1
+	Query: "Felidae sp. mappable:1" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "rock vole" ; Times: 1
+	Query: "copperhead county" ; Times: 1
+	Query: "&#34;Synaptomys cooperi&#34; vntype:specimen stateprovince:&#34;maine&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Ocelot" ; Times: 1
+	Query: "locality:cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:18639 institutioncode:NCSM" ; Times: 2
+	Query: "&#34;Microtus pinetorum&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:NCSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;tioga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Cheetah" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "UNCW" ; Times: 1
+	Query: "specificepithet:javanica genus:manis" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus year &gt;= 0 year &lt;= 1901" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "fieldnumber:11888" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 2
+	Query: "wild boar" ; Times: 1
+	Query: "(&#34;Canis rufus&#34;)" ; Times: 1
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "fieldnumber:3758" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 5
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "county:&#34;boyd&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 24
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "Mustela putorius mappable:1" ; Times: 2
+	Query: "catalognumber:19214 institutioncode:NCSM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1584 download events in this period)
+Total number of records downloaded: 1792
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 59
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 6
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 11
+	Date: 2020-01-12 ; Times: 18
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-23 ; Times: 5
+	Date: 2020-01-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "family:Phyllostomidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "order:Rodentia county:&#34;Polk&#34; OR &#34;Graham&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "genus:Rattus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "mus musculus stateprovince:&#34;Florida&#34; country:&#34;United States&#34; hassex:1" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+
+
+End of report.
