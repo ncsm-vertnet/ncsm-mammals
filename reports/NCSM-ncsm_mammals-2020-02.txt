@@ -1,0 +1,253 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 2774
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 234
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 32
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-03 ; Times: 50
+	Date: 2020-02-26 ; Times: 9
+	Date: 2020-02-01 ; Times: 19
+	Date: 2020-02-06 ; Times: 23
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 15
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 8
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 12
+	Date: 2020-02-15 ; Times: 8
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-02 ; Times: 22
+	Date: 2020-02-25 ; Times: 6
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "&#34;Felis catus&#34;" ; Times: 1
+	Query: "indiana bat" ; Times: 2
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "armadillo Dasypus novemcinctus" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "&#34;Dasypus Novemcinctus&#34;" ; Times: 3
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "&#34;odocoileus virginianus&#34;" ; Times: 5
+	Query: "cystophora" ; Times: 1
+	Query: "leona heights park" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "&#34;Odocoileus virginianus&#34;" ; Times: 6
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "snow owl" ; Times: 2
+	Query: "&#34;Tursiops truncatus&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "(Armadillo)" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "Virginia Opossum" ; Times: 1
+	Query: "institutioncode:ncsm Blarina brevicauda" ; Times: 6
+	Query: "vampire" ; Times: 2
+	Query: "allegheny woodrat" ; Times: 2
+	Query: "genus:Cryptotis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "(nine-banded armadillo)" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 2
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "family:Muridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 3
+	Query: "Nine-banded armadillo" ; Times: 4
+	Query: "(dasypus novemcinctus)" ; Times: 1
+	Query: "(Nine banded armadillo Dasypus novemcinctus)" ; Times: 2
+	Query: "Skulls" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "american black bear" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 21
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "Peromyscus floridanus" ; Times: 1
+	Query: "african wild dog" ; Times: 1
+	Query: "Armadillo" ; Times: 2
+	Query: "&#34;Marmota monax&#34;" ; Times: 3
+	Query: "genus:kerodon" ; Times: 2
+	Query: "Ilex" ; Times: 1
+	Query: "Armadillo Dasypus novemcinctus" ; Times: 1
+	Query: "Pika" ; Times: 2
+	Query: "Didelphis virginia" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "family:Nandiniidae order:Carnivora" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "chrotorrhinus" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "physeter" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "(virginia opossum)" ; Times: 1
+	Query: "(armadillo)" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "mammalian" ; Times: 2
+	Query: "Parnell" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "saba" ; Times: 1
+	Query: "locality:leona canyon" ; Times: 1
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "Mesoplodon" ; Times: 1
+	Query: "phoca" ; Times: 3
+	Query: "15700" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "(Dasypus novemcinctus)" ; Times: 3
+	Query: "pagophilus" ; Times: 2
+	Query: "UK 2978" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 6
+	Query: "Dasypus &#34;novemcinctus&#34;" ; Times: 3
+	Query: "Mushroom" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "cheetah" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 13
+	Query: "dasypus novemcinctus" ; Times: 8
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 3
+	Query: "17179" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 40
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "didelphis virginia" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "&#34;Alces americanus&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1023 download events in this period)
+Total number of records downloaded: 3635
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 33
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sorex cinereus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Cryptotis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:kerodon" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "louisiana" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
