@@ -1,0 +1,234 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 2195
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 127
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-17 ; Times: 4
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-13 ; Times: 3
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 9
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-30 ; Times: 3
+	Date: 2020-08-19 ; Times: 43
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-24 ; Times: 12
+	Date: 2020-08-25 ; Times: 11
+	Date: 2020-08-22 ; Times: 5
+	Date: 2020-08-20 ; Times: 16
+	Date: 2020-08-21 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magister genus:Neotoma" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Coachwhip" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "catalognumber:12873 institutioncode:NCSM" ; Times: 2
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Netherlands" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 3
+	Query: "appalachian cottontail" ; Times: 1
+	Query: "locality:La Veta county:&#34;Huerfano&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "specificepithet:coeruleoalba genus:stenella stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "Swamp rabbit" ; Times: 6
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "catalognumber:12840 institutioncode:NCSM" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 4
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "tarsius" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "vntype:specimen class:Mammalia county:&#34;Northampton&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catalognumber:12858 institutioncode:NCSM" ; Times: 2
+	Query: "locality:marianna cave stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 11
+	Query: "Sciurus granatensis" ; Times: 1
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "sylvilagus aquaticus" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+	Query: "bog lemming" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "swamp rabbit" ; Times: 2
+	Query: "Allegheny woodrat" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "fieldnumber:11940" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:obscurus genus:Sylvilagus" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 4
+	Query: "Hylobates agilis" ; Times: 1
+	Query: "Canis sp" ; Times: 2
+	Query: "mustela nigripes" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "genus:Sylvilagus obscurus" ; Times: 2
+	Query: "Canis rufus" ; Times: 4
+	Query: "barred owl" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "catalognumber:12897 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:leibii genus:Myotis" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "west indian manatee" ; Times: 7
+	Query: "genus:sylvilagus obscurus" ; Times: 1
+	Query: "specificepithet:coeruleoalba genus:stenella country:&#34;United States&#34;" ; Times: 1
+	Query: "Papio ursinus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "kentucky red-backed vole" ; Times: 2
+	Query: "patagonian mara" ; Times: 1
+	Query: "&#34;condylura cristata&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 3
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Virginia big-eared bat" ; Times: 5
+	Query: "Myotis evotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34;" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "fieldnumber:6205" ; Times: 1
+	Query: "specificepithet:dispar genus:sorex" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "star nosed mole" ; Times: 2
+	Query: "Ammospermophilus harrisii" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus" ; Times: 6
+	Query: "specificepithet:hoyi genus:Sorex county:&#34;Cecil&#34; stateprovince:&#34;Maryland&#34;" ; Times: 2
+	Query: "Lepus townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 756 download events in this period)
+Total number of records downloaded: 4155
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 48
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 9
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-13 ; Times: 5
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-26 ; Times: 10
+	Date: 2020-08-24 ; Times: 7
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "locality:La Veta county:&#34;Huerfano&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "vntype:specimen class:Mammalia county:&#34;Northampton&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+	Query: "vntype:specimen class:Mammalia county:&#34;Accomack&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Mammals Bolivia La PAz" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex county:&#34;Cecil&#34; stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Zalophus wollebaeki" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "genus:Zapus stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+
+
+End of report.
