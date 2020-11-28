@@ -1,0 +1,231 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 1196
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 67
+	Country: Netherlands ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 3
+	Country: Peru ; Times: 6
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 4
+	Country: Malaysia ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Argentina ; Times: 4
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 7
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-25 ; Times: 6
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-01 ; Times: 11
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 21
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 8
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 9
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-14 ; Times: 8
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "fieldnumber:2451" ; Times: 1
+	Query: "long tailed weasel" ; Times: 2
+	Query: "Artibeus lituratus (Great fruit-eating bat)" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 2
+	Query: "Ziphius" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "pallid bat" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "Callosciurus" ; Times: 1
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 4
+	Query: "genus:blarina county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 6
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-102.01171874999999))&lt;4077596" ; Times: 1
+	Query: "dentition" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 3
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 2
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "silver haired bat" ; Times: 3
+	Query: "Stenella attenuata mappable:1" ; Times: 1
+	Query: "genus:peromyscus county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "bat genus:Lasionycteris year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "specificepithet:Lutra lutra" ; Times: 1
+	Query: "lutra lutra" ; Times: 5
+	Query: "mammalia ovary" ; Times: 1
+	Query: "spotted skunk" ; Times: 2
+	Query: "ursus maritimus" ; Times: 4
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:sorex county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "neotoma floridana" ; Times: 2
+	Query: "Canis rufus" ; Times: 3
+	Query: "callosciurus" ; Times: 3
+	Query: "genus:Sus" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "genus:Glaucomys" ; Times: 3
+	Query: "Parnell" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "genus:sus" ; Times: 1
+	Query: "genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 4
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;St. Lawrence&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "stenella attenuata" ; Times: 2
+	Query: "genus:Napaeozapus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Naemorhedus goral" ; Times: 2
+	Query: "Jaguar" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "Callosciurus notatus" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "West Indies Barbuda" ; Times: 1
+	Query: "locality:Cape Lookout year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 940 download events in this period)
+Total number of records downloaded: 8611
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 2
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Naemorhedus goral" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "Phyllostomidae vntype:specimen year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
