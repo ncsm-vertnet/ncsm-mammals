@@ -1,0 +1,237 @@
+Report for Institution Code NCSM, Resource ncsm_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 284
+Number of records retrieved in searches: 3276
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 212
+	Country: Saudi Arabia ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Mozambique ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 18
+	Date: 2020-12-31 ; Times: 3
+	Date: 2020-12-09 ; Times: 47
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-05 ; Times: 5
+	Date: 2020-12-04 ; Times: 35
+	Date: 2020-12-03 ; Times: 19
+	Date: 2020-12-02 ; Times: 52
+	Date: 2020-12-01 ; Times: 7
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 10
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-22 ; Times: 11
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 6
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-14 ; Times: 31
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Ursus americanus stateprovince:new york" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:obscurus genus:sylvilagus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "scientificname:Martes pennanti stateprovince:new york" ; Times: 2
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "sika deer" ; Times: 1
+	Query: "Bison bonasus" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;west virginia&#34; year &gt;= 1900 year &lt;= 1965" ; Times: 1
+	Query: "Dama dama" ; Times: 7
+	Query: "fox squirrel" ; Times: 5
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 2
+	Query: "Cervus nippon" ; Times: 2
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 6
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "whitetail deer" ; Times: 3
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "white tailed deer" ; Times: 14
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myodes gapperi stateprovince:new york" ; Times: 2
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "Carnegie Museum Mammals" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "vampire" ; Times: 2
+	Query: "17310" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "genus:Corynorhinus specificepithet:rafinesquii stateprovince:north carolina" ; Times: 2
+	Query: "Felis libyca" ; Times: 1
+	Query: "lontra Canadensis" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "scientificname:Urocyon cinereoargenteus stateprovince:new york" ; Times: 2
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Saudi Arabia&#34; continent:asia" ; Times: 2
+	Query: "12995" ; Times: 1
+	Query: "Leptonycteris sanborni" ; Times: 2
+	Query: "virginia opossum" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "Felis catus" ; Times: 2
+	Query: "(white tailed deer) hassex:1 hasmass:1" ; Times: 5
+	Query: "USNM mammals" ; Times: 1
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "DOT-123" ; Times: 1
+	Query: "mappable:1 scientificname:Loxodonta africana" ; Times: 1
+	Query: "myocastor coypus" ; Times: 2
+	Query: "quercus" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "scientificname:Myotis sp. stateprovince:new york" ; Times: 2
+	Query: "white tailed-deer hassex:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "vntype:specimen genus:Tamias stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "vntype:specimen genus:Castor stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "gray fox" ; Times: 1
+	Query: "lutra hasmass:1" ; Times: 1
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 8
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 2000 hassex:1 hasmass:1" ; Times: 2
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "white tailed deer hassex:1 hasmass:1" ; Times: 3
+	Query: "mallard" ; Times: 2
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "scientificname:Erethizon dorsatum stateprovince:new york" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 8
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "1997-381" ; Times: 1
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 2
+	Query: "Cervinae" ; Times: 1
+	Query: "DOT 5581" ; Times: 2
+	Query: "indian squirrel" ; Times: 2
+	Query: "pika" ; Times: 5
+	Query: "pinniped" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus stateprovince:new york" ; Times: 2
+	Query: "Mongoose" ; Times: 1
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lynx rufus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Neovison vison stateprovince:new york" ; Times: 2
+	Query: "cervus nippon" ; Times: 1
+	Query: "genus:mus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "mappable:1 scientificname:Giraffa camelopardalis" ; Times: 1
+	Query: "catalognumber:8221 institutioncode:NCSM" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 8
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 32
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "&#34;Canis rufus&#34;" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 hasmass:1" ; Times: 1
+	Query: "genus:reithrodontomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 6
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Canis latrans stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus sp. stateprovince:new york" ; Times: 2
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "Florida genus:Canis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 8
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "Phacochoerus" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1" ; Times: 5
+	Query: "fieldnumber:11473" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 705 download events in this period)
+Total number of records downloaded: 1512
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:NCSM" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "vntype:specimen genus:Tamias stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "class:mammalia locality:Caloosahatchee River" ; Times: 1
+	Query: "vntype:specimen genus:Mustela stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
